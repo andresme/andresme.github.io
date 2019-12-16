@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/andresme/andresme.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Costa Rican Software Developer currently working for [Amazon.com](https://www.amazon.com) as a Software Development Engineer. I like playing piano and making games.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact Information
 
-### Markdown
+- Location: San José, Costa Rica
+- E-mail: andres.me@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Language Knowledge
 
-```markdown
-Syntax highlighted code block
+- Spanish: Native
+- English: Advanced, fluent
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Education
 
-1. Numbered
-2. List
+- 2014-2019: M.Sc Computer Science, [Instituto Tecnologico de Costa Rica](https://www.tec.ac.cr/)
+- 2010-2014: B.Sc Computer Engineering, [Instituto Tecnologico de Costa Rica](https://www.tec.ac.cr/)
 
-**Bold** and _Italic_ and `Code` text
+## Technical Knowledge
+| Field | Technologies |
+| --- | --- |
+| Programming | Java, Python, C/C++, Javascript, Bash Scripting & others |
+| SDKs/Frameworks | Android SDK, Android NDK, Spring, Python Pandas, Spark & others |
+| Databases | Oracle, MySQL, SQL Server, DynamoDB (AWS) |
+| OSs | Microsoft Windows, GNU/Linux, OSX |
+| Version Control | Git, Subversion |
 
-[Link](url) and ![Image](src)
-```
+## Professional Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 2015-Present: **[Amazon.com](https://www.amazon.com/)**, *Software Development Engineer II*
+    - Design & Development for Web Applications (Frontend and Backend).
+    - Design & Development for Serverless Web Applications.
+- 2013-2015: **[Konrad Group](https://www.konrad.com/)**, *Mid Software Developer*
+    - Design & Development for multimedia Android and iOS Applications.
+- 2012-2013: **[Cecropia Solutions](http://www.cecropiasolutions.com/)**, *Intern Software Developer*
+    - Design & Development for multimedia Android Application (gamification).
+- 2012-2013: **[Instituto Tecnologico de Costa Rica](https://www.tec.ac.cr/)**, *Student Association Member*
+    - Member of the student council 
+    - Organizer of activites for the Computer Engineer School.
+- 2011-2013: **[Instituto Tecnologico de Costa Rica](https://www.tec.ac.cr/)**, *Researcher*
+    - Design & Development for Android and iOS games.
+    - Research about game development, gamification and learning methods.
 
-### Jekyll Themes
+## Other Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andresme/andresme.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **TriviaCR**, Trivia game developed for the 2014 Costa Rica elections.
+- **Kadejo**, Hackathon Winner game developed in 24 hours about the Costa Rican myth "El Cadejos".
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##  Interests
+- Data Science
+- Machine Learning
+- Serverless Architecture
+- Game Development
