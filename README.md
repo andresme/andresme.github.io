@@ -19,13 +19,14 @@ I'm a Costa Rican Software Developer currently working for [Amazon.com](https://
 - 2010-2014: B.Sc Computer Engineering, [Instituto Tecnologico de Costa Rica](https://www.tec.ac.cr/)
 
 ## Technical Knowledge
-| Field | Technologies |
-| --- | --- |
-| Programming | Java, Python, C/C++, Javascript, Bash Scripting & others |
-| SDKs/Frameworks | Android SDK, Android NDK, Spring, Python Pandas, Spark & others |
-| Databases | Oracle, MySQL, SQL Server, DynamoDB (AWS) |
-| OSs | Microsoft Windows, GNU/Linux, OSX |
-| Version Control | Git, Subversion |
+
+
+- **Programming Languages**: Java, Python, C/C++, Javascript, Bash Scripting & others
+- **SDKs/Frameworks**: Android SDK, Android NDK, Spring, Python Pandas, Spark & others
+- **Databases**: Oracle, MySQL, SQL Server, DynamoDB (AWS)
+- **OSs**: Microsoft Windows, GNU/Linux, OSX 
+- **Version Control**: Git, Subversion 
+- **Others**: AWS Cloud
 
 ## Professional Experience
 
